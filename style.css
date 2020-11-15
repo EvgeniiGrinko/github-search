@@ -3,6 +3,7 @@
 *::after {
   box-sizing: border-box;
 }
+
 .app {
   padding: 25px;
 }
@@ -21,7 +22,6 @@
   width: 50%;
   margin: 0 auto;
 }
-
 .search-input {
   border: 1px solid #ccc;
   border-radius: 5px;
@@ -44,7 +44,7 @@
   flex-wrap: wrap;
 }
 
-.user {
+.user-info {
   padding-left: 100px;
   width: 50%;
 }
@@ -83,7 +83,6 @@
 }
 
 .btn {
-  display: block;
   background-color: #ccc;
   border: 0;
   border-radius: 5px;
